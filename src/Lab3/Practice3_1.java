@@ -1,4 +1,4 @@
-package Java_ITS;
+package Lab3;
 
 public class Practice3_1 {
     public static double calculate(int m, int k) {

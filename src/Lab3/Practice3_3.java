@@ -1,4 +1,4 @@
-package Java_ITS;
+package Lab3;
 
 public class Practice3_3 {
 
@@ -16,6 +16,7 @@ public class Practice3_3 {
             }
             sum += term;
             i++;
+            System.out.println("i = " +i);
         }
         return sum;
     }
